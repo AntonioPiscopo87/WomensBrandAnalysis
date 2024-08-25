@@ -46,12 +46,11 @@ This project aims to analyze product categories and pricing strategies for a wom
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/womens-fashion-chain-data-analysis.git
+   git clone https://github.com/yourusername/WomensBrandAnalysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd womens-fashion-chain-data-analysis
-   ```
+   cd WomensBrandAnalysis
 3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
